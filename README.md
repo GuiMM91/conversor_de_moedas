@@ -7,4 +7,4 @@
 <p>Link para a aplicação: https://guimm91.github.io/conversor_de_moedas/</p>
 
 
-<img src="imagens/conversor_moedas.png">
+<img src="imagens/conversor_moedas.png" alt="conversor de moedas">
